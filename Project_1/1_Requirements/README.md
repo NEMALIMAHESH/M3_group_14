@@ -1,39 +1,17 @@
-* Introduction
+# Introduction
   * RKE system consists of an RF transmitter in the keyfob (or key) that sends a short burst of digital data to a receiver in the vehicle, where it is decoded and made to open or close the vehicle doors or the trunk via receiver-controlled actuators. The wireless carrier frequency, is currently 315MHz in the US/Japan and 433.92MHz (ISM band) in Europe. In Japan the modulation is frequency-shift keying (FSK), but in most other parts of the world, amplitude-shift keying, or ASK is used. The carrier is amplitude modulated between two levels: To save power, the lower level is usually near zero, producing complete on-off keying (OOK).
-* High Level Requirements:
+## High Level Requirements:
   * It will transmit the signals from remote unit to vehicle unit
   * It will receive signals from remote unit to vehicle unit
-* Low Level Requirements:
+### Low Level Requirements:
   *	Print lock – (Blue switch on- All led on at the same time)
 	* Print unlock - (Blue switch press two times- All led off at the same time)
 	* Print alarm activation/deactivation - (Blue switch press three times- All led on in clockwise manner)
 	* Print approach light - (Blue switch press four times- All led on in anti-clockwise manner)
-=======
-# RKE(Remote Keyless Entry)
----
-## Description:
-The Remote Keyless Entry(RKE) is a Wireless Connectivity system which allows to remotely lock or unlock access the automobiles.
- 
-## Components:
-The transmission in RKE requires two major components.
-   * Transmitter
-   * Receiver
-## Transmitter:
-   * The RKE key fob contains the transmitter in it to transfer the signals to the automobile. 
-   * Instead of key fob we can also use other ID device with RKE integrated.
-## Receiver:
-   * The reciever will be placed on to the Body Control ECU of the automobile or in anyother ECU with integrated RKE.
-
-## Functionality:
-   * RKE operates by broadcasting radio waves on a particular Frequency "Unidirectionally".
-   * Key fob transmits the information and the automobile receives it and functions accordingly.
-   * These systems implements encryption and rolling code algorithms. This prevents the automobile from thieves and from spoofing the telegrams.
->>>>>>> 108683ce5cab8d256ad61bc38d6df68a21d23b28
 * Features
   * Used to Unlock and lock the car door without any key.
 * Swot Analysis:
   * Strengths:
-<<<<<<< HEAD
     * Convenience. Not having to fumble with a key in a handbag or pocket or a keypad on a door (remember those?) is a major selling point of this technology.
     * Security. Since you can gain entry so much quicker, you spend less time out in the open where someone might try to rob or hijack you.
     * Remote starting. With remote start offered on the best of these systems, you can start your car and warm or cool the interior while it's parked in your driveway.
@@ -66,7 +44,4 @@ The transmission in RKE requires two major components.
     * It is used to lock and unlock the door without key.
   * How:
     * It is useful for lock and unlock the door by pressing the button on remote.
-=======
-    * Now a days it is implementing in every car.
-    * Huge growth all over the world.
->>>>>>> 108683ce5cab8d256ad61bc38d6df68a21d23b28
+
