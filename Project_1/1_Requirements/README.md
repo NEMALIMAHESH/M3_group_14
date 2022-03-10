@@ -9,11 +9,8 @@ They are,
       * Transmitter
       * Receiver
 ## Transmitter:
----
-The RKE key fob contains the transmitter in it to transfer the signals to the automobile. Instead of key fob we can also use other ID device with RKE integrated.
-
+*The RKE key fob contains the transmitter in it to transfer the signals to the automobile. Instead of key fob we can also use other ID device with RKE integrated.
 ## Receiver:
----
 The reciever will be placed on to the Body Control ECU of the automobile or in anyother ECU with integrated RKE.
 
 ## Functionality:
