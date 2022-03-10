@@ -5,13 +5,13 @@ The Remote Keyless Entry(RKE) is a Wireless Connectivity system which allows to 
  
 ## Components:
 The transmission in RKE requires two major components.
-They are,
-      * Transmitter
-      * Receiver
+   * Transmitter
+   * Receiver
 ## Transmitter:
-*The RKE key fob contains the transmitter in it to transfer the signals to the automobile. Instead of key fob we can also use other ID device with RKE integrated.
+   * The RKE key fob contains the transmitter in it to transfer the signals to the automobile. 
+   * Instead of key fob we can also use other ID device with RKE integrated.
 ## Receiver:
-The reciever will be placed on to the Body Control ECU of the automobile or in anyother ECU with integrated RKE.
+   * The reciever will be placed on to the Body Control ECU of the automobile or in anyother ECU with integrated RKE.
 
 ## Functionality:
    * RKE operates by broadcasting radio waves on a particular Frequency "Unidirectionally".
