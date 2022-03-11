@@ -20,7 +20,7 @@
   * Strengths:
     * Convenience. Not having to fumble with a key in a handbag or pocket or a keypad on a door (remember those?) is a major selling point of this technology.
     * Security. Since you can gain entry so much quicker, you spend less time out in the open where someone might try to rob or hijack you.
-    * Remote starting. With remote start offered on the best of these systems, you can start your car and warm or cool the interior while it's parked in your driveway.
+    * Remote starting. With remote start offered on the best of these systems, you can lock or unlock the door while it's parked in your driveway.
   * Weakness:
     * Leaving the engine running. People have exited their vehicles without realizing the engine is still running, which is especially dangerous in enclosed spaces.
     * Forgetting to select park. People might miss that the engine is still running and get out of the car to open a gate, not realising the vehicle is not in park. The car can roll away and cause damage, injury, or death.
@@ -41,7 +41,7 @@
   * WHAT:
     * It is used to lock and unlock the door without key.
   * When:
-    * It is used in Cars.
+    * It is used in Cars to lock or unlock.
   * Who :
     * It is useful for everyone for example people use for locking and unlocking the car door.
   * Where:
